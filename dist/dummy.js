@@ -1,18 +1,10 @@
-// let data = 2 ;
-// let vdata
-// vdata = data + data
 
-// console.log(vdata);
+let array = [1,2,3]
+for (let i = 0; i < array.length; i++) { 
+     console.log(array[i]);
+    
+}
+                
+// let array =  [ 1 , 2 ,5 ,7, 12 ]
 
-// function handledebugging(props){
-//     let sahi = props + 1 ;
-//     debugger
-//     // handledebuggingdata(sahi)
-//     console.log(sahi);
-// }
-
-// // function handledebuggingdata(props) {
-// //     bini =  props + 12;
-// //   debugger
-// // }
-// handledebugging(vdata)
+// console.log(array[2]);
